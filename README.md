@@ -36,9 +36,7 @@ This project simulates a **smart factory dashboard** that helps monitor machine 
   - `Temperature (°C)`
   - `Alert` (DAX-generated)
 
-📁 Files:
-- `factory_dataset_generated_by_python.xlsx` — Clean dataset
-- `factory_data_generator.py` — Python script used to generate the data
+
 
 ---
 
