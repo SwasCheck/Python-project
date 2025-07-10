@@ -40,6 +40,7 @@ This project simulates a **smart factory dashboard** that helps monitor machine 
 
 factory_dataset_generated_by_python.xlsx — Clean dataset
 factory_data_generator.py — Python script used to generate the data
+factory_dashboard.pbix - Power B1 
 
 
 ---
